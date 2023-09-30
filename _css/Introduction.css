@@ -1,0 +1,44 @@
+.a1 {
+ background-color: Cyan;
+ color: lightYellow;
+ font-weight: bold;
+ padding-left: 10%;
+}
+.a2 {
+ background-color: orange;
+ color: yellow;
+ font-weight: bold;
+ text-align: center;
+} 
+.a3 {
+ background-color: purple;
+ color: black;
+ font-weight: bold;
+ text-align: right;
+ padding-right: 10%;
+}
+img {
+ transform: rotate(10deg); 
+ margin: 20px; 
+ background-color: white; 
+ padding: 10px;
+}
+.intro{
+ text-align: justify; 
+ width: 75%; 
+ height: 1500px;
+ background-color: #ffffff;
+ margin-left: auto;
+ margin-right: auto;
+ border-radius: 50px;
+}
+input{
+ background-color: white;
+ font-family: ComicSans;
+ border-radius: 5px;
+ border: 1px solid gray;
+}
+.p2 {
+ font-family: Cursive;
+ font-size: 15px;
+}

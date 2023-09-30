@@ -1,0 +1,21 @@
+body{
+    background-color: powderblue;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+    font-family: verdana;
+}
+.p1{
+    text-align: center;
+    font-size: 300%;
+    font-family: courier;
+}
+.p2{
+    color: blue;
+    text-align: justify;
+}
+.p3{
+    color: red;
+    text-align: justify;
+}
